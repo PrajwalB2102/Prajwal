@@ -1,0 +1,21 @@
+header { text-align: center;}
+
+h1{ border-style: hidden ;
+background-color: #fff;
+font-family:Fantasy;
+font-size:50px;
+text-align: center;
+color: darkBlue;
+}
+p{ text-align: end;}
+text { text-align: start;}
+body { line-height: 1.4;}
+section { h4 { line-height :0.11;}}
+
+h2 {
+  background-color: #00ffbb;
+}
+footer{   background-color: darkgrey;
+          color: blue;
+}
+h3 { color: green;}
